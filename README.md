@@ -7,10 +7,6 @@
 ────── ⋆⋅☆⋅⋆ ──────
 
 about me:
-- 21
-- She/Her
-- INTP
-- Chaminade University of Honolulu
 - Computer Science major, Data Science minor
 
 ────── ⋆⋅☆⋅⋆ ──────
