@@ -7,7 +7,7 @@
 ────── ⋆⋅☆⋅⋆ ──────
 
 about me:
-- Computer Science major, Data Science minor
+- Computer Science major, Data Science and Fine Arts minor
 
 ────── ⋆⋅☆⋅⋆ ──────
 
