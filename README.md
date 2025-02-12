@@ -13,7 +13,7 @@ about me:
 
 languages (in progress):
 - Java
-- MySql
+- SQL
 - SQLite
 - Python
 - R
